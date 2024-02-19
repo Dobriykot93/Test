@@ -1,4 +1,4 @@
-testinc line
+
 line conflict
 commit test new 4 video
 456
@@ -7,3 +7,5 @@ sdfsdfsdf345345345
 новая
 еще новая
 Add line
+conflict 4234234
+new line git gui
