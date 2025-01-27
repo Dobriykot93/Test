@@ -1,4 +1,4 @@
-ferst line
+ferst
 line conflict
 commit test new 4 video
 456
